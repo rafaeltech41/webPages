@@ -1,0 +1,67 @@
+body{
+    background-color: #0D0D0D;
+    font-weight: bold;
+    color: #D9D9D9;
+}
+h2{
+    margin-top: 1em;
+    font-weight: bold;
+}
+section{
+    color: #D9D9D9;
+ /* background-color:#595959;*/
+    align-items: center;
+    text-align:center;
+    margin-top: 2em;
+    margin-left: 2em;
+    margin-right: 4em;
+    padding: 1em 2em 3.5em 2em;
+    font-family: cursive;
+    border-radius: 1em;
+    display: block;
+    justify-content: center;
+    
+    
+}
+input{
+    padding: 0.7em;
+    border-radius: 1em;
+}
+button{
+    border: #D9D9D9 solid 1px;
+    padding: 0.5em 4em 1em 4em;
+    margin-top: 1em;
+    border-radius: 1em;
+    font-weight: bold;
+    font-family: cursive;
+    cursor: pointer;
+}
+button:hover{
+    color: #595959;
+    transition: background-color #0D0D0D 0.25ms;
+}
+fieldset{
+    margin-top: 1em;
+}
+
+
+/* Color Theme Swatches in Hex */
+.Concept-eye-wear-store-|-Simple-Form-of-Life-1-hex { color: #F2F2F2; }
+.Concept-eye-wear-store-|-Simple-Form-of-Life-2-hex { color: #D9D9D9; }
+.Concept-eye-wear-store-|-Simple-Form-of-Life-3-hex { color: #A6A6A6; }
+.Concept-eye-wear-store-|-Simple-Form-of-Life-4-hex { color: #595959; }
+.Concept-eye-wear-store-|-Simple-Form-of-Life-5-hex { color: #0D0D0D; }
+
+/* Color Theme Swatches in RGBA */
+.Concept-eye-wear-store-|-Simple-Form-of-Life-1-rgba { color: rgba(242, 242, 242, 1); }
+.Concept-eye-wear-store-|-Simple-Form-of-Life-2-rgba { color: rgba(216, 216, 216, 1); }
+.Concept-eye-wear-store-|-Simple-Form-of-Life-3-rgba { color: rgba(165, 165, 165, 1); }
+.Concept-eye-wear-store-|-Simple-Form-of-Life-4-rgba { color: rgba(89, 89, 89, 1); }
+.Concept-eye-wear-store-|-Simple-Form-of-Life-5-rgba { color: rgba(12, 12, 12, 1); }
+
+/* Color Theme Swatches in HSLA */
+.Concept-eye-wear-store-|-Simple-Form-of-Life-1-hsla { color: hsla(0, 0, 95, 1); }
+.Concept-eye-wear-store-|-Simple-Form-of-Life-2-hsla { color: hsla(0, 0, 85, 1); }
+.Concept-eye-wear-store-|-Simple-Form-of-Life-3-hsla { color: hsla(0, 0, 65, 1); }
+.Concept-eye-wear-store-|-Simple-Form-of-Life-4-hsla { color: hsla(0, 0, 35, 1); }
+.Concept-eye-wear-store-|-Simple-Form-of-Life-5-hsla { color: hsla(0, 0, 5, 1); }
