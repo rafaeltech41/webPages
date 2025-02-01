@@ -17,7 +17,7 @@ function signUp(){
 
     const outPutData = document.getElementById("outPutData");
     outPutData.innerHTML = `
-     <fieldset>
+    
         <h2>Filled Data</h2>
         <p>Name ${userName}</p>
         <p>Email ${userEmail}</p>
@@ -27,5 +27,5 @@ function signUp(){
         <p>State ${userState}</p>
         <p>Zip Code ${userZipCode}</p>
         
-    </fieldset>`;
+    `;
 }
